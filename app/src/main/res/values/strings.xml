@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="alert">there is no internet connection</string>
+
+    <string name="lp_title">Sort By</string>
+    <string name="lp_key">order</string>
+
+    <string name="lp_pobular">popular</string>
+    <string name="lp_top_rated">top rated</string>
+    <string name="lp_favourit">Favourite</string>
+
+    <string name="lp_pobular_value">popular</string>
+    <string name="lp_top_rated_value">top rated</string>
+    <string name="lp_favourit_value">Favourite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="watch">Watch Trailer</string>
+    <!--<string name="home">Home</string>-->
+    <!--<string name="profile">Profile</string>-->
+    <string name="pop_movie">Popular Movies</string>
+    <string name="top_movie">Top Movies</string>
+    <string name="fav_movie">Favourite Movies</string>
+    <!--<string name="up_movie">UpComing Movies</string>-->
+    <!--<string name="about">About</string>-->
+    <!--<string name="logout">Logout</string>-->
+
+    <!--<string name="send_button_label">Send</string>-->
+    <!--<string name="sign_out">Logout</string>-->
+    <!--<string name="chat">Chat</string>-->
+    <!--<string name="play_movie">Now Playing Movies</string>-->
+
+    <string name="review">Reviews</string>
+    <string name="trailer">Trailers</string>
+    <string name="up">Up</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="reviewby">Review by:</string>
+
+    <!--//about-->
+    <!--<string name="developed">Developed By :</string>-->
+    <!--<string name="name">Adham Morsy</string>-->
+    <!--<string name="designed">Icon Designed By :</string>-->
+    <!--<string name="name2">Abdo Tarek</string>-->
+    <!--<string name="powerd">Powerd By :</string>-->
+    <string name="site">www.themoviedb.org</string>
+
+</resources>
